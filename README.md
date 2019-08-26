@@ -32,7 +32,7 @@ Botpress is an open-source all-in-one bot creation platform that provides all th
 
 ## Support the project ⭐
 
-If you feel awesome and want to support us in a small way, please consider starring and sharing the repo! This helps us get visability and allow the community to grow. 🙏
+If you feel awesome and want to support us in a small way, please consider starring and sharing the repo! This helps us get visibility and allow the community to grow. 🙏
 
 <img alt="Botpress" width="250" src=".github/assets/star_us.gif">
 
